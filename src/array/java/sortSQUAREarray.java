@@ -11,7 +11,7 @@ public class sortSQUAREarray {
         arr[j]=temp;
 
     }
-    static void reverse(int[] arr, int i, int j ){
+    static void reverse(int[] arr, int i, int j){
         while(i < j){
             indexSwapping( arr,i,j);
             i++;
@@ -56,7 +56,7 @@ public class sortSQUAREarray {
         }
         System.out.print("Original array ");
         printArray(arr);
-       int[] ans= sortSquare( arr);
+       int[] ans= sortSquare(arr);
         System.out.print(" Array after sorting  ");
         reverse(ans, 0, n-1);
         printArray(ans);

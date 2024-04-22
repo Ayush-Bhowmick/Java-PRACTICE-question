@@ -32,8 +32,8 @@ public class basics {
        // int f=94;
       //  System.out.println(s+f);
 
-        double d=95;
-        double v=95;
+//        double d=95;
+      //  double v=95;
        // double z=v/d;
        // System.out.println(z);
 //       double c=99;
@@ -61,5 +61,9 @@ public class basics {
 //                int k= sc.nextInt();
 //
 
-    }
+
+ //a software may
+        //ins are the command which we give to the computer inorder to acieve a particular specific language
+
+}
 }

@@ -50,3 +50,14 @@ public class rotateTheArrayBy_K_pos {
 
 
 }
+//output
+//5
+//Enter the  elements
+//1 2 3 4 6
+//ENTER K
+//4
+//Original array:
+//1 2 3 4 6
+//Array after Rotation :
+//2 3 4 6 1
+//Process finished with exit code 0

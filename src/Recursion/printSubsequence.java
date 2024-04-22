@@ -15,7 +15,7 @@ public class printSubsequence {
         ssq(smallAns, currAns+curr);//bc,a
         //curr -> char choose not to be a part of the string
         ssq(smallAns,currAns);//bc," "
-
+  
 
     }
     public static void main(String[] args) {
