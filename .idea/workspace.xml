@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="673f5905-f75c-4b96-9a1c-3f4cbc99da03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sorting/mergesort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/stringAddcharInChar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/Sorting/problem2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/Sorting/problem2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/basics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/basics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/printSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/printSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/java/clonning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/java/clonning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/java/rotateTheArrayBy_K_pos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/java/rotateTheArrayBy_K_pos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/java/sortSQUAREarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/java/sortSQUAREarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/java/reverseAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/java/reverseAnArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +55,19 @@
       <option name="presentableId" value="Default" />
       <updated>1681444459269</updated>
     </task>
+    <task id="LOCAL-00001" summary="int prep">
+      <created>1713798975561</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713798975562</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="int prep" />
+    <option name="LAST_COMMIT_MESSAGE" value="int prep" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
