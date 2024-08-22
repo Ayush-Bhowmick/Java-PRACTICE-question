@@ -71,3 +71,18 @@ public class rotate90degMatrix {
 
     }
 
+//output
+//Enter the number of rows and column
+//3 3
+//Enter the elements
+//2 3 4
+//5 6 7
+//8 9 1
+//INPUT MATRIX
+//2 3 4
+//5 6 7
+//8 9 1
+//ROTATE MATRIX
+//8 5 2
+//7 6 3
+//1 9 4

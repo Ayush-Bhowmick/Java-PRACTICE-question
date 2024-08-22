@@ -9,7 +9,7 @@ public class bubble {
             boolean flag = false; // has any swap happening
             for (int j = 0; j < n-i-1; j++) { // moving the loop till the array is unsorted
 
-                //check if the former umber is greater than the later one if so then snap
+                //check if the former number is greater than the later one if so then snap
                 // their position is order to sort them out
                 if (arr[j] > arr[j+1]) {
 

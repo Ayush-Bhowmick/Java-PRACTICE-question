@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="673f5905-f75c-4b96-9a1c-3f4cbc99da03" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/string/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/palindromeSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/toggleString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/toggleUP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/java/reverseAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/java/reverseAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting/bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/bubble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twoD_Array/rotate90degMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/twoD_Array/rotate90degMatrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +52,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="string" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,12 +73,20 @@
       <option name="project" value="LOCAL" />
       <updated>1713798975562</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="java practice">
+      <created>1714323799213</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714323799213</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="int prep" />
-    <option name="LAST_COMMIT_MESSAGE" value="int prep" />
+    <MESSAGE value="java practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="java practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
