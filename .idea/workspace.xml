@@ -5,14 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="673f5905-f75c-4b96-9a1c-3f4cbc99da03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/string/palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/palindromeSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/toggleString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/toggleUP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linkedlist/basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linkedlist/displayNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linkedlist/getElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linkedlist/insertAtBegining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linkedlist/insertAtEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linkedlist/insertAtIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linkedlist/reverselinkedlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/StudentClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/compressedString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/bubble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twoD_Array/rotate90degMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/twoD_Array/rotate90degMatrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +56,24 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Linkedlist" />
       <recent name="string" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="getElement$linkedlist" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Linkedlist.getElement$linkedlist" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
